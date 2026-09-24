@@ -11,3 +11,48 @@ something that the developers could have done differently to better improve the 
 This would be so that the software handles peak-hour gym traffic without freezing. 
 They also could implement a stronger API rate-limiting and automated regressions testing. 
 This would be to catch bugs before the system updates are rolled out.
+
+
+
+
+## The Four Process Activities: RetailSync Case Study
+RetailSync did a lot of things wrong with this new system. 
+
+- In stage one it is described that "the IT director held a single one-hour meeting". 
+In this meeting "no written requirements document was produced". 
+This is a terrible way to start out as the developement team has no idea what they are actually supposed to be building. 
+
+- In stage two "The team of three developers worked largely independently, each taking a module (stock intake, stock transfer, reporting) with minimal coordination between them"
+This lack of cummunication has lead to an incohesive team that are not complimenting eachother in any way. 
+"There were no shared coding standards and no code review process — each developer pushed code directly to a shared folder on a network drive, occasionally overwriting a colleague's changes without noticing"
+In this piece of quoted text it can be seen that the team were not performing any validation when pushing their code to the shared folder. 
+This will lead to crashes almost certainly. 
+
+- "Warehouse staff were not consulted during this period; the developers assumed their understanding of 'how a warehouse works' from the kickoff meeting was sufficient."
+This quoted text again shows that the developers were not in communication with their clients leading to a product that does not fit the needs. 
+This is again an example of poor specifications from the IT director. 
+
+- During the developement the team where told that the system would "need to support the company's new second warehouse, which used a different shelving and barcode scheme."
+This is comunicated with the team much too late and is causing them to have to do a massive evolution on the system. 
+However the developement team did not evolve the system but instead they "did not revisit the existing design, instead patching the second warehouse's requirements on top of the existing schema."
+this is a major red flag as there is no way of knowing that these systems will work together. 
+
+- In the testing phase the team again has ignored all protocol and gone ahead with testing without consulting with the customer. 
+They "fixed the crashes they personally encountered" without testing to see for the crashes they did not encounter. 
+"No warehouse staff tested the system before go-live", not good. 
+
+- It seems that throughout this developement of this piece of software the developement team completely ignored the Four Processes and went with their own version that had very pool results. 
+There was little-to-no specification from the IT director and the team suddenly knew what they were doing. 
+There was a very poor developement workflow and the team were not working together in any of the stages. 
+Validation was not considered at all as the team were pushing their code and deleting others code to make their own work all the time. 
+Lastly they did not evolve the system when they were told that the system had to encorperate the older stocking system. 
+
+In my opinion the single greatest failure that did the most damage is the lack of specifications and communication from the IT director. 
+This lead to the team making their own assumptions about what was required of the software when in actuallity they hadn't once consulted with anyone working on the warehouse team. 
+
+
+
+
+
+
+
