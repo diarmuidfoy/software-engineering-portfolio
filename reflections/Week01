@@ -53,6 +53,15 @@ This lead to the team making their own assumptions about what was required of th
 
 
 
+## Researching a Softeare Failure 
+Therac-25
+The Therac-25 was a radiation therapy machine that was used to treat cancer patients. 
+Between 1985 and 1987, there were several accidents where patients where given massive amounts of radiation, which caused serious injuries and deaths. 
+The main problem was that the machine relied heavily on its software to make sure it was working safely. 
+There was a software error which meant that if the machine was used in a certain way, it could give a patient a much higher amount of radiation than it was supposed to.
+The developers also failed to find the problem early enough becuase they believed that the problem was caused by the hardware and not the software. 
 
-
-
+I think this failure links to the complexity of software enfineering.
+The Therac-25 had many different parts that all had to work together correctly. 
+This shows one small software error can cause a much bigger problem when it is part of a complex system. 
+https://ethicsunwrapped.utexas.edu/wp-content/uploads/2022/10/Therac-25-1.pdf
