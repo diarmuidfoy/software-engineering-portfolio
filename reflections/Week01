@@ -65,3 +65,17 @@ I think this failure links to the complexity of software enfineering.
 The Therac-25 had many different parts that all had to work together correctly. 
 This shows one small software error can cause a much bigger problem when it is part of a complex system. 
 https://ethicsunwrapped.utexas.edu/wp-content/uploads/2022/10/Therac-25-1.pdf
+
+
+
+
+## Is There Still a Software Crisis?
+One fact I found about the NATO Software Engineering Conferences is that the NATO Science Committee created a Study Group on Computer Science in 1967. 
+This group focused on the problems being caused by software and recommended that the first Software Engineering Conference should take place in 1968.
+
+I think that there is still a version of the software crisis today. 
+Software is much more advanced than it was in the 1960s, but we are also using it for much more important things. 
+The Therac-25 is a good example of this. 
+A software error caused patients to receive dangerous amounts of radiation, showing that software problems can still have very serious consequences. 
+I think the main difference today is that we have better development methods, but software is also becoming more complex, so problems can still happen.
+
