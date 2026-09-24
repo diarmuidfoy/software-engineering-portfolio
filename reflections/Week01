@@ -1,1 +1,13 @@
-this is reflecitons
+Week01 Reflection
+"Software" is a group of digital instructions that tell a computer or device how to behave or what to do. 
+"Engineering is the use of science, maths, and technology to design, build, and solve real-world problems. 
+"Software Engineering" is the application of engineering practices to manage software.
+Some software that is used daily that is generally regarded as very easy to use would be google and WhatsApp. 
+An example of a poorer piece of software which users generally try to avoid would be Microsoft teams. 
+
+I work as a manager at a leisure centre, and the software we use to run our tills is the worst piece of software I have ever come across. 
+Daily there is a system crash, and we are constantly having to apologize to customers for the delay of service.
+something that the developers could have done differently to better improve the software is to optimize the local data syncing and background hardware integrations. 
+This would be so that the software handles peak-hour gym traffic without freezing. 
+They also could implement a stronger API rate-limiting and automated regressions testing. 
+This would be to catch bugs before the system updates are rolled out.
