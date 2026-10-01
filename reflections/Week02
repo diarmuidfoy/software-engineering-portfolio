@@ -1,0 +1,25 @@
+Week02 Reflection
+Software Process Models
+
+Brief A
+For the Aegis flight-control software I would choose the Waterfall model.
+The main reason for this is that the requirements are already very well understood and are not expected to change. 
+The software is also being used in an aircraft, meaning that a software failure could potentially put people's lives at risk.
+Because of this the software needs to go through a very strict testing and certification process.
+Waterfall would work well because each stage can be documented and checked before moving onto the next stage.
+The project also requires complete traceability from the requirements to the code and then to the testing evidence. 
+This makes Waterfall a good fit because it is a very structured process.
+
+Brief B
+For the Riverside Bakery website I would choose RAD. 
+The owner does not know exactly what she wants the website to look like and is likely to change her mind after seeing a working version. 
+RAD would allow the developers to quickly create versions of the website and get feedback from her. 
+The three week deadline also makes a fast development process useful.
+
+Brief C
+For the CampusCircle app I would choose the Incremental model. 
+The founders expect the requirements to change after real students start using the app. 
+The team could release a basic version first and then add features such as RSVP and chat based on feedback.
+
+The main thing I have learned from these examples is that there is no single process model that works for every software project. 
+The model needs to be chosen based on the requirements, risk, deadline and how involved the customer needs to be.
